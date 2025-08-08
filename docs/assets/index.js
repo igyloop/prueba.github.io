@@ -1,1 +1,1 @@
-const secret_key_api = "secret_test_api key_1234567890abcdef";
+const secret_key_api = "sk_test_4g5h5s4r5tu88s7f3x1d8fgugh3v1vjh123";
